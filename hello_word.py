@@ -5,7 +5,7 @@ with main function
 
 
 def hello():
-    print(hello_world !)
+    print("hello_world !")
 
 if __name__=='__name__':
     hello()
